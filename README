@@ -9,3 +9,5 @@ https://faculty-web.msoe.edu/johnsontimoj/index.html
 MSP432P104R Tech Ref https://schaumont.dyn.wpi.edu/ece4703b21/_downloads/8bf98313124444641502c686bb90dbaa/msp432p401r-trm.pdf
 
 MSP432 Wiki https://en.wikipedia.org/wiki/TI_MSP432
+
+Download and Include the MSOE_Library File into your program. and include the folder project into your main project. 
